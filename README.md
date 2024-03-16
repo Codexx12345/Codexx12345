@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @Codexx12345
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, We are the @Codexx12345
+Members:
+Justin Pogoy
+Romnick Premacio
+Carl Vincent Arquio
 
-<!---
-Codexx12345/Codexx12345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+STEPS:
+
+npm init -y
+npm i axios
+node index.js
+
+
